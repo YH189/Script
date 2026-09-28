@@ -15,7 +15,7 @@ btnclick.onclick = function () {
   } else if (age <= 95) {
     resultshow.textContent = `Welcome to our services`;
   } else if (age <= 200) {
-    resultshow.textContent = `You are too OLD to apply & sorry you are not eligible`;
+    resultshow.textContent = `You are too old to apply & sorry you are not eligible`;
   } else {
     resultshow.textContent = `You should pass the eligibiltity criteria`;
   }
