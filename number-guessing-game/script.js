@@ -1,5 +1,5 @@
-const min = 23;
-const max = 120;
+const min = 67;
+const max = 90;
 const answer = Math.floor(Math.random() * (max - min + 1)) + min;
 
 let attempt = 1;
